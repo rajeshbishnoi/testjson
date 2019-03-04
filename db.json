@@ -1,0 +1,204 @@
+[ 
+{ 
+"DealerCode":3412,
+"DealerName":"A S MOBIKES PVT LTD",
+"TradeName":"Tiger H-D",
+"Location":"Indore",
+"id":1
+},
+{ 
+"DealerCode":2761,
+"DealerName":"BAFNA MOTORCYCLES PRIVATE LIMITED",
+"TradeName":"Seven Islands H-D(Vashi)",
+"Location":"Mumbai",
+"id":2
+},
+{ 
+"DealerCode":2761,
+"DealerName":"BAFNA MOTORCYCLES PRIVATE LIMITED",
+"TradeName":"Seven Islands H-D(Bandra)",
+"Location":"Mumbai",
+"id":3
+},
+{ 
+"DealerCode":3071,
+"DealerName":"BENGAL SPEED AUTOMOBILES PVT LTD",
+"TradeName":"Bengal  H-D",
+"Location":"Kolkata",
+"id":4
+},
+{ 
+"DealerCode":3070,
+"DealerName":"CONCEPT MOTORBIKE COMPANY PVT LTD",
+"TradeName":"Nine-Bridges  H-D",
+"Location":"Ahmedabad",
+"id":5
+},
+{ 
+"DealerCode":3632,
+"DealerName":"CONCEPT MOTORBIKE COMPANY PVT LTD",
+"TradeName":"Diamond City  H-D",
+"Location":"Surat",
+"id":6
+},
+{ 
+"DealerCode":3422,
+"DealerName":"DUNES MOTOR COMPANY",
+"TradeName":"Dunes  H-D",
+"Location":"Jaipur",
+"id":7
+},
+{ 
+"DealerCode":3273,
+"DealerName":"EXCELSIOR MOTORS PVT LTD",
+"TradeName":"Spice Coast  H-D",
+"Location":"Kochi",
+"id":8
+},
+{ 
+"DealerCode":3810,
+"DealerName":"EXCELSIOR MOTORS PVT LTD",
+"TradeName":"Malabar  H-D",
+"Location":"Calicut",
+"id":9
+},
+{ 
+"DealerCode":3890,
+"DealerName":"JAHNVI MOTOR PRIVATE LIMITED",
+"TradeName":"The Western Ghat  H-D",
+"Location":"Coimbatore",
+"id":10
+},
+{ 
+"DealerCode":3288,
+"DealerName":"LATHANGI CYCLE AND CARRIAGE PVT LTD",
+"TradeName":"Coromandel H-D",
+"Location":"Chennai",
+"id":11
+},
+{ 
+"DealerCode":3849,
+"DealerName":"LEGEND BIKES LLP",
+"TradeName":"Epicenter H-D",
+"Location":"Nagpur",
+"id":12
+},
+{ 
+"DealerCode":4108,
+"DealerName":"LUXE PASSION PRIVATE LIMITED",
+"TradeName":"Red Fort H-D",
+"Location":"Delhi",
+"id":13
+},
+{ 
+"DealerCode":3419,
+"DealerName":"MOKSHAA MOTORBIKE CO PVT LTD",
+"TradeName":"Two River H-D",
+"Location":"Pune",
+"id":14
+},
+{ 
+"DealerCode":4063,
+"DealerName":"SAMIR AUTOMOBILES PVT LTD",
+"TradeName":"Brahmaputra H-D",
+"Location":"Guwahati",
+"id":15
+},
+{ 
+"DealerCode":2760,
+"DealerName":"SRI JAYALAKSHMI AUTOMOBILES PVT LTD",
+"TradeName":"Banjara H-D",
+"Location":"Hyderabad",
+"id":16
+},
+{ 
+"DealerCode":3084,
+"DealerName":"STERLING MOBIKES PVT LTD",
+"TradeName":"Himalayan H-D",
+"Location":"Chandigarh",
+"id":17
+},
+{ 
+"DealerCode":2759,
+"DealerName":"STERLING MOBIKES PVT LTD",
+"TradeName":"Capital H-D",
+"Location":"Delhi",
+"id":18
+},
+{ 
+"DealerCode":4065,
+"DealerName":"STERLING MOBIKES PVT LTD",
+"TradeName":"Grand Trunk H-D",
+"Location":"Ludhiana",
+"id":19
+},
+{ 
+"DealerCode":2757,
+"DealerName":"TUSKER MOTORCYCLES PRIVATE LIMITED",
+"TradeName":"Tusker H-D(LR)",
+"Location":"Bengaluru",
+"id":20
+},
+{ 
+"DealerCode":3321,
+"DealerName":"TUSKER MOTORCYCLES PRIVATE LIMITED",
+"TradeName":"Tusker H-D(Goa)",
+"Location":"Goa",
+"id":21
+},
+{ 
+"DealerCode":3635,
+"DealerName":"TUSKER MOTORCYCLES PRIVATE LIMITED",
+"TradeName":"Tusker H-D(IN)",
+"Location":"Bengaluru",
+"id":22
+},
+{ 
+"DealerCode":3759,
+"DealerName":"UTTAM SONS PRIVATE LIMITED",
+"TradeName":"United H-D",
+"Location":"Lucknow",
+"id":23
+},
+{ 
+"DealerCode":4161,
+"DealerName":"UTTAM SONS PRIVATE LIMITED",
+"TradeName":"Foothills H-D",
+"Location":"Dehradun",
+"id":24
+},
+{ 
+"DealerCode":4217,
+"DealerName":"Mokshaa Motor Company",
+"TradeName":"Warrior H-D",
+"Location":"Kolhapur",
+"id":25
+},
+{ 
+"DealerCode":4218,
+"DealerName":"Kwality Mobikes Pvt Ltd",
+"TradeName":"Bison H-D",
+"Location":"Bengaluru",
+"id":26
+},
+{ 
+"DealerCode":4219,
+"DealerName":"JYOTE AUTOMOTIVES PVT LTD",
+"TradeName":"Konark H-D",
+"Location":"Bhubaneswar",
+"id":27
+},
+{ 
+"DealerCode":4364,
+"DealerName":"East Coast Motors",
+"TradeName":"Marina H-D",
+"Location":"Chennai",
+"id":28
+},
+{ 
+"DealerCode":4425,
+"DealerName":"Orange Auto Pvt Ltd",
+"TradeName":"Sunrise H-D",
+"Location":"Vijaywada",
+"id":29
+}]
